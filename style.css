@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+/* font-family: 'Roboto', sans-serif; */
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    background-color: rgb(207, 207, 207);
+    height: 250px ;
+    width: 480px;
+    border: 1px solid black;
+    border-radius: 25px;
+    box-shadow: 5px 5px 4px 5px #616161;
+    margin: 30px;
+    position: relative;
+    margin-bottom: 70px;
+}
+
+.title{
+    color: white;
+    height: auto;
+    width: 180px;
+    padding: 6px 5px;
+    padding-left: 5px;
+    background-color: rgb(103, 173, 179);
+    border-radius: 25px;
+    text-align: center;
+    position: absolute;
+    left: 150px;
+    top :-37px;
+
+}
+
+.form {
+    margin: 40px 30px;
+    display: flex;
+    align-items: center;
+}
+
+.form label{
+    display: inline-block;
+    width: 100px;
+    background-color: black;
+    color: white;
+    padding: 2px 90px 5px 5px;
+    text-align:start;
+    border-radius: 10px;
+    margin: 8px 0px;
+}
+
+.form input{
+    height: 30px;
+    margin: 3px 0px;
+    display: inline-block;
+    width: 200px;
+    background-color: rgb(231, 222, 222);
+    color: rgb(56, 45, 45);
+    /* padding: 0px 90px 0px 0px; */
+    text-align:start;
+    border-radius: 10px;
+
+}
+
+.form .school{
+    width: 120px;
+    margin-right: 5px;
+}
+.button{
+    padding: 2px;
+    margin: 80px;
+    border-radius: 10px;
+    width: 100px;
+    background-color: aqua; 
+}
