@@ -1,3 +1,3 @@
 # Form-page
 BY Using HTML,CSS
-http://127.0.0.1:5501/index.html
+https://amitsingh80.github.io/Form-page/
